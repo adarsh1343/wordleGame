@@ -10,7 +10,7 @@ def give_instructions():
           
         Best of luck!''')
 
-words = ["this", "five", "four", "cats", "dogs", "pink", "cats", "hose", "hoes", "fish", "pant", "cart", "fart", "pick", "dart"]
+words = ["this", "five", "four", "cats", "dogs", "pink", "cats", "hose", "fish", "pant", "cart", "pick", "dart"]
 
 hidden_word = random.choice(words) #chooses a random word from the list variable word
 attempt = 5
